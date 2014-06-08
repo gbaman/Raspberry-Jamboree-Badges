@@ -2,6 +2,7 @@ Raspberry-Jamboree-Badges
 =========================
    
 The badges for the Raspberry Jamboree. Designed by @MiniGirlGeek and @gbaman1   
+![Badge](https://raw.githubusercontent.com/gbaman/Raspberry-Jamboree-Badges/master/images/Badge.jpg "Raspi-Badge")
    
 There are 3 laser cutter bed sizes included in different folders.   
 1100mm x 762mm - Badges-1100x762  
@@ -26,3 +27,5 @@ A size reference cube has been included in each file plus size guides for at lea
 There is also a python script included that can be used to pull names from 2 CSV files to auto build name badges.   
 Check its separate readme.md file in the python folder for more information on this   
 https://github.com/gbaman/Raspberry-Jamboree-Badges/tree/master/Python-script
+
+![Badge-LED](https://raw.githubusercontent.com/gbaman/Raspberry-Jamboree-Badges/master/images/Badge-LED.jpg "Raspi-Badge-LED")
